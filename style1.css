@@ -1,0 +1,91 @@
+ 
+*
+{
+    box-sizing: border-box;
+    background-color:hsl(30, 38%, 92%);   
+    
+   
+}
+.main
+{   
+    display: flex; 
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid hsl(30, 38%, 92%); 
+    background-color: white;
+    width: 600px;
+    margin-top: 70px;
+
+    
+    
+
+}
+
+.right
+{
+  margin-left: 50px;
+  background-color: white;
+  width: 300px;
+  height: 450px;
+  
+}
+
+.img1
+{
+    width: 300px;
+    height: 450px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+
+    
+}
+#up{
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    background-color: white;
+    opacity: 0.5;
+    margin-top: 35px;
+    font-size: 15px;
+}
+h1
+{
+    
+}
+.price
+{
+    margin-inline-start:120px;
+    margin-top: -50px;
+    background-color: white;
+}
+#price1 h2
+{
+    color: hsl(158, 36%, 37%);
+    font-size: 30px;
+}
+
+.right button
+{
+    background-color: hsl(158, 47%, 36%);
+    border-radius: 10px;
+    padding: 15px 40px;
+    cursor:-moz-grab;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin-top: 40px;
+    border: none;
+   
+}
+#butt svg
+{
+    background: none;
+    margin-right: 10px;
+}
+#para{
+    opacity: 0.7;
+    line-height: 25px;
+}
+del{
+    opacity: 0.6;
+}
+
