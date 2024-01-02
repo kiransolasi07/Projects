@@ -2,9 +2,7 @@
 *
 {
     box-sizing: border-box;
-    background-color:hsl(30, 38%, 92%);   
-    
-   
+    background-color:hsl(30, 38%, 92%);     
 }
 .main
 {   
@@ -14,10 +12,7 @@
     border: 3px solid hsl(30, 38%, 92%); 
     background-color: white;
     width: 600px;
-    margin-top: 70px;
-
-    
-    
+    margin-top: 70px;   
 
 }
 
@@ -25,6 +20,7 @@
 {
   margin-left: 50px;
   background-color: white;
+  
   width: 300px;
   height: 450px;
   
